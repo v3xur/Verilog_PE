@@ -4,8 +4,8 @@
 Consists of matrix multiplication scalermultiplication, addition/subtarction, transposition, and a top module bringing each piece together.
 
 Project Details:
-All math functions will have a clear input set to zero
-The register value needs to be able to be written back into memeory location
+1. All math functions will have a clear input set to zero
+2. The register value needs to be able to be written back into memeory location
 All matricies will be 4x4 16 bit deep
 Matrix multiplier will multiply two 4x4 matrix and return a 4x4 matrix
 Scalar multiplication is multiplying a matrix by single number
